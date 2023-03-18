@@ -1,0 +1,28 @@
+.bg {
+  background-color: #ffc2a0;
+  width: 100vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-size: cover;
+}
+.content {
+  width: 85%;
+  height: 90%;
+  background-color: aqua;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #ffc2a0;
+  font-size: 35px;
+}
+.todos-container {
+  display: flex;
+  flex-direction: column;
+}

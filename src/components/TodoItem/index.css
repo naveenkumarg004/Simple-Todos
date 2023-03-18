@@ -1,0 +1,19 @@
+.item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.task {
+  color: #000000;
+  font-size: 15px;
+}
+
+.btn {
+  width: 110px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  border-width: 1px;
+  border-color: #ff0b37;
+}
